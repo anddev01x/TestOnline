@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_background"
+    android:orientation="vertical"
+    tools:context=".activity.ActivityLogin">
+
+
+    <ImageView
+        android:layout_width="165dp"
+        android:layout_height="165dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="45dp"
+        android:src="@drawable/ic_welcome" />
+
+    <EditText
+        android:id="@+id/edt_username"
+        android:layout_width="340dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="#DAD1D1D1"
+        android:fontFamily="@font/alice"
+        android:hint="@string/edt_username"
+        android:paddingStart="15dp"
+        android:textColor="@color/blackbold"
+        android:textColorHint="#404040"
+        android:textSize="18sp"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/edt_password"
+        android:layout_width="340dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="19dp"
+        android:background="#DAD1D1D1"
+        android:fontFamily="@font/alice"
+        android:hint="@string/edt_password"
+        android:inputType="textPassword"
+        android:paddingStart="15dp"
+        android:textColor="@color/blackbold"
+        android:textColorHint="#404040"
+        android:textSize="18sp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/bt_login"
+        android:layout_width="150dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="35dp"
+        android:backgroundTint="#9C9C9C"
+        android:fontFamily="@font/baloo"
+        android:text="@string/bt_login"
+        android:textColor="@color/blackbold"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_signup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:gravity="center"
+        android:text="@string/tv_signup"
+        android:textSize="15sp"
+        android:textStyle="italic"
+
+        />
+</LinearLayout>

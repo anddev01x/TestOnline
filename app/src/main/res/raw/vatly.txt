@@ -1,0 +1,164 @@
+[
+	{
+		"Question": "Câu 1: Chọn câu sai. Vật bị nhiễm điện:",
+		"AnswerA":"Có khả năng đẩy các vật khác",
+		"AnswerB":"Có khả năng làm sáng bóng đèn bút thử điện",
+		"AnswerC":"Còn được gọi là vật mang điện tích",
+		"AnswerD":"Không có khả năng đẩy các vật khác.",
+		"Result":"Không có khả năng đẩy các vật khác"
+	},
+	{
+		"Question": "Câu 2: Có thể làm nhiễm điện cho một vật bằng cách",
+		"AnswerA":"Cọ xát vật",
+		"AnswerB":"Nhúng vật vào nước đá",
+		"AnswerC":"Cho chạm vào nam châm  ",
+		"AnswerD":"Nung nóng vật",
+		"Result":"Cọ xát vật"
+	},
+	{
+		"Question":"Câu 3: Chọn câu trả lời đúng. Trong cấu tạo nguên tử, hạt nhân và electron có điện tích:",
+		"AnswerA":"Cùng loại",
+		"AnswerB":"Như nhau",
+		"AnswerC":"Khác loại",
+		"AnswerD":"Bằng nhau",
+		"Result":"Khác loại"
+	},
+	{
+		"Question":"Câu 4: Thanh thủy tinh sau khi cọ xát với lụa thì:",
+		"AnswerA":"Thủy tinh mang điện tích dương, lụa mang điện tích âm.",
+		"AnswerB":"Thủy tinh mang điện tích dương, lụa mang điện tích dương.",
+		"AnswerC":"Thủy tinh mang điện tích âm, lụa mang điện tích âm.",
+		"AnswerD":"Thủy tinh mang điện tích âm, lụa mang điện tích dương.",
+		"Result":"Thủy tinh mang điện tích dương, lụa mang điện tích âm."
+	},
+	{	
+		"Question":"Câu 5: Dòng điện là:",
+		"AnswerA":"Dòng các điện tích dương chuyển động hỗn loạn.",
+		"AnswerB":"Dòng các điện tích âm chuyển động hỗn loạn.",
+		"AnswerC":"Dòng các điện tích dịch chuyển có hướng.",
+		"AnswerD":"Dòng các nguyên tử chuyển động có hướng.",
+		"Result":"Dòng các điện tích dịch chuyển có hướng."
+	},
+	{	
+		"Question":"Câu 6: Chọn câu phát biểu sai",
+		"AnswerA":"Trong kim loại tồn tại các ion dương",
+		"AnswerB":"Trong kim loại tồn tại các ion âm",
+		"AnswerC":"Trong kim loại có chứa các điện tử tự do",
+		"AnswerD":"Kim loại được cấu tạo từ các nguyên tử",
+		"Result":"Kim loại được cấu tạo từ các nguyên tử"		
+	},
+	{	
+		"Question":"Câu 7: Trong các dụng cụ và thiết bị điện thường dùng, vật liệu cách điện nào sử dụng nhiều nhất?",
+		"AnswerA":"Sứ",
+		"AnswerB":"Nhựa",
+		"AnswerC":"Thủy tinh",
+		"AnswerD":"Cao su",
+		"Result":"Nhựa"
+	},
+	{	
+		"Question":"Câu 8: Sơ đồ của mạch điện là gì?",
+		"AnswerA":"Là ảnh chụp mạch điện thật.",
+		"AnswerB":"Là hình vẽ biểu diễn mạch điện bằng các kí hiệu của các bộ phận mạch điện.",
+		"AnswerC":"Là hình vẽ mạch điện thật đúng như kích thước của nó.",
+		"AnswerD":"Là hình vẽ mạch điện thật nhưng với kích thước được thu nhỏ.",
+		"Result":"Là hình vẽ biểu diễn mạch điện bằng các kí hiệu của các bộ phận mạch điện."
+	},
+	{	
+		"Question":"Câu 9: Chọn câu trả lời đúng: Bóng đèn tròn trong gia đình phát sáng là do:",
+		"AnswerA":"Tác dụng nhiệt của dòng điện",
+		"AnswerB":"Tác dụng phát sáng của dòng điện",
+		"AnswerC":"Vừa tác dụng nhiệt, vừa tác dụng phát sáng",
+		"AnswerD":"Dựa trên các tác dụng khác",
+		"Result":"Vừa tác dụng nhiệt, vừa tác dụng phát sáng"
+	},
+	{	
+		"Question":"Câu 10: Đối với một bóng đèn nhất định, nếu hiệu điện thế đặt vào hai đầu bóng đèn tăng thì cường độ dòng điện qua bóng",
+		"AnswerA":"Không đổi",
+		"AnswerB":"Giảm",
+		"AnswerC":"Tăng",
+		"AnswerD":"Lúc đầu giảm, sau tăng",
+		"Result":"Tăng"
+	},
+	{	
+		"Question":"Câu 11: Chọn câu trả lời đúng: Ampe kế là dụng cụ dùng để đo:",
+		"AnswerA":"Tác dụng của dòng điện",
+		"AnswerB":"Mức độ của dòng điện",
+		"AnswerC":"Cường độ dòng điện",
+		"AnswerD":"Khả năng của dòng điện",
+		"Result":"Cường độ dòng điện"
+	},
+	{	
+		"Question":"Câu 12: Dùng vôn kế có độ chia nhỏ nhất là 0,2 V để đo hiệu điện thế giữa hai đầu cực của nguồn điện khi chưa mắc vào mạch. cách viết kết quả đo nào dưới đây là đúng?",
+		"AnswerA":"314 mV ",
+		"AnswerB":"5,8 V",
+		"AnswerC":"1,52 V",
+		"AnswerD":"3,16 V",
+		"Result":"5,8 V"
+	},
+	{	
+
+		"Question":"Câu 13: Biết cường độ dòng điện định mức của một bếp điện là 4,5A. Cho các dòng điện có các cường độ sau đây chạy qua bếp, hỏi trường hợp nào dây may so của bếp sẽ đứt?",
+		"AnswerA":"4,5A",
+		"AnswerB":"4,3A",
+		"AnswerC":"3,8A",
+		"AnswerD":"5,5A",
+		"Result":"5,5A"
+	},
+	{	
+		"Question":"Câu 14: Dòng điện là:",
+		"AnswerA":"Dòng các điện tích dương chuyển động hỗn loạn.",
+		"AnswerB":"Dòng các điện tích âm chuyển động hỗn loạn.",
+		"AnswerC":"Dòng các điện tích dịch chuyển có hướng.",
+		"AnswerD":"Dòng các nguyên tử chuyển động có hướng.",
+		"Result":"Dòng các điện tích dịch chuyển có hướng."
+	},	
+	{	
+		"Question":"Câu 15: Mạng điện có điện thế bao nhiêu thì có thể gây chết người?",
+		"AnswerA":"Dưới 220 V",
+		"AnswerB":"Trên 40 V",
+		"AnswerC":"Trên 100 V",
+		"AnswerD":"Trên 220 V",
+		"Result":"Trên 40 V"
+	},
+	{	
+		"Question":"Câu 16: Tác hại nào sau đây không phải do hiện tượng đoản mạch gây ra?",
+		"AnswerA":"Làm cường độ dòng điện trong mạch tăng vọt.",
+		"AnswerB":"Làm hỏng, cháy vỏ bọc cách điện của dây dẫn.",
+		"AnswerC":"Làm cho số chỉ trên công tơ tăng vọt.",
+		"AnswerD":"Làm cháy các vật gần chỗ bị đoản mạch.",
+		"Result":"Làm cho số chỉ trên công tơ tăng vọt."
+	},
+	{
+
+		"Question":"Câu 17:Tổng điện tích hạt nhân của nguyên tử sắt là 26 nên khi trung hòa về điện thì tổng số electron của nguyên tử sắt này là:",
+		"AnswerA":"26",
+		"AnswerB":"52",
+		"AnswerC":"Không có electron nào",
+		"AnswerD":"13",
+		"Result":"26"
+	},
+	{	
+		"Question":"Câu 18: Thiết bị nào sau đây là nguồn điện?",
+		"AnswerA":"Quạt máy",
+		"AnswerB":"Acquy",
+		"AnswerC":"Bếp lửa",
+		"AnswerD":"Đèn pin",
+		"Result":"Acquy"
+	},
+	{	
+		"Question":"Câu 19: Chiều qui ước của dòng điện ngược chiều với chiều dịch chuyển có hướng của các ....... trong dây dẫn kim loại.",
+		"AnswerA":"Hạt nhân nguyên tử",
+		"AnswerB":"Êlectron tự do",
+		"AnswerC":"Êlectron mang điện tích âm",
+		"AnswerD":"Proton mang điện tích dương",
+		"Result":"Êlectron tự do"
+	},
+	{	
+		"Question":"Câu 20: Phát biểu nào dưới đây là sai?",
+		"AnswerA":"Vôn (V)",
+		"AnswerB":"Ampe (A)",
+		"AnswerC":"Milivôn (mV)",
+		"AnswerD":"Kilovôn (kV)",
+		"Result":"Ampe (A)"
+	}
+]

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Thi trắc nghiệm</string>
+    <string name="tv_name">Trắc Nghiệm Online</string>
+    <string name="txt_username">Tên đăng nhập</string>
+    <string name="txt_password">Mật khẩu</string>
+    <string name="bt_login">ĐĂNG NHẬP</string>
+    <string name="tv_signup">Bạn chưa có tài khoản? Nhấn vào đây để đăng ký</string>
+    <string name="edt_gmail">Email</string>
+    <string name="edt_password">Mật khẩu</string>
+    <string name="edt_username">Tên đăng nhập</string>
+    <string name="edt_forgotuser">Tên đăng nhập</string>
+    <string name="edt_forgotpass">Mật khẩu</string>
+    <string name="edt_repass">Nhập lại mật khẩu</string>
+    <string name="bt_signup">Đăng ký</string>
+    <string name="tv_login">Bạn đã có tài khoản? Đăng nhập</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

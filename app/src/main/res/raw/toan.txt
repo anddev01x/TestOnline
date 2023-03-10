@@ -1,0 +1,162 @@
+[
+	{
+		"Question": "Câu 1: Cho 14758 = 10000 + 4000 + … + 50 + 8 Số thích hợp để viết vào chỗ chấm là:",
+		"AnswerA":"700",
+		"AnswerB":"7000",
+		"AnswerC":"70",
+		"AnswerD":"7",
+		"Result":"700"
+	},
+	{
+		"Question": "Câu 2: Số tiếp theo của dãy số 1, 1, 2, 3, 5, 8, 13, …. là:",
+		"AnswerA":"15",
+		"AnswerB":"6",
+		"AnswerC":"18",
+		"AnswerD":"21",
+		"Result":"15"
+	},
+	{
+		"Question":"Câu 3: Số thích hợp điền vào chỗ chấm của dãy số 3; 7; 11; 15; …; 23; 27 là:",
+		"AnswerA":"16",
+		"AnswerB":"17",
+		"AnswerC":"18",
+		"AnswerD":"19",
+		"Result":"19"
+	},
+	{
+		"Question":"Câu 4: Tìm x biết: x : 3 = 12",
+		"AnswerA":"4",
+		"AnswerB":"17",
+		"AnswerC":"34",
+		"AnswerD":"36",
+		"Result":"36"
+	},
+	{	
+		"Question":"Câu 5: Tính chu vi hình vuông cạnh a với a = 9 cm",
+		"AnswerA":"18 cm",
+		"AnswerB":"81 cm",
+		"AnswerC":"36 cm",
+		"AnswerD":"63 cm",
+		"Result":"36 cm"
+	},
+	{	
+		"Question":"Câu 6: Số bé nhất trong các số sau: 785432; 784532; 785342; 785324 là:",
+		"AnswerA":"785432",
+		"AnswerB":"784532",
+		"AnswerC":"785342",
+		"AnswerD":"785234",
+		"Result":"784532"
+	},
+	{	
+		"Question":"Câu 7: Số bảy trăm triệu có bao nhiêu chữ số 0:",
+		"AnswerA":"7",
+		"AnswerB":"10",
+		"AnswerC":"9",
+		"AnswerD":"8",
+		"Result":"8"
+	},
+	{	
+		"Question":"Câu 8: Tìm số tròn chục x, biết: 58 < x < 70",
+		"AnswerA":"40",
+		"AnswerB":"50",
+		"AnswerC":"60",
+		"AnswerD":"69",
+		"Result":"69"
+	},
+	{	
+		"Question":"Câu 9: Tìm x biết: 6 < x < 9 và x là số lẻ :",
+		"AnswerA":"6",
+		"AnswerB":"7",
+		"AnswerC":"8",
+		"AnswerD":"9",
+		"Result":"7"
+	},
+	{	
+		"Question":"Câu 10: 3 kg 7g = ? g.",
+		"AnswerA":"37 g",
+		"AnswerB":"307 g",
+		"AnswerC":"370 g",
+		"AnswerD":"3007 g",
+		"Result":"3007 g"
+	},
+	{	
+		"Question":"Câu 11: Tìm x biết: 549 + x = 976",
+		"AnswerA":"427",
+		"AnswerB":"327",
+		"AnswerC":"437",
+		"AnswerD":"337",
+		"Result":"427"
+	},
+	{	
+		"Question":"Câu 12: Tính giá trị của a+b nếu a = 56 và b = 29",
+		"AnswerA":"27",
+		"AnswerB":"37",
+		"AnswerC":"85",
+		"AnswerD":"75",
+		"Result":"85"
+	},
+	{	
+		"Question":"Câu 13: Tính giá trị của m x n nếu m = 34 và n = 8.",
+		"AnswerA":"42",
+		"AnswerB":"262",
+		"AnswerC":"282",
+		"AnswerD":"275",
+		"Result":"262"
+	},
+	{	
+		"Question":"Câu 14: Chọn số thích hợp: 563 + 856 = 856 + ……?",
+		"AnswerA":"856",
+		"AnswerB":"563",
+		"AnswerC":"1419",
+		"AnswerD":"293",
+		"Result":"856"
+	},	
+	{	
+		"Question":"Câu 15: Tính nhẩm: 16 x100 =?",
+		"AnswerA":"1600",
+		"AnswerB":"160",
+		"AnswerC":"1060",
+		"AnswerD":"6000",
+		"Result":"1600"
+	},
+	{	
+		"Question":"Câu 16: Kết quả của phép tính: 78 x 100 : 10 = ?",
+		"AnswerA":"78",
+		"AnswerB":"708",
+		"AnswerC":"7800",
+		"AnswerD":"780",
+		"Result":"780"
+	},
+	{	
+		"Question":"Câu 17: Chọn số thích hơp: ( 4 x 5) x 7 = ( 7 x 4) x ……?",
+		"AnswerA":"20",
+		"AnswerB":"5",
+		"AnswerC":"7",
+		"AnswerD":"4",
+		"Result":"5"
+	},
+	{	
+		"Question":"Câu 18: Tìm x biết: x : 200 = 3460",
+		"AnswerA":"x = 69200",
+		"AnswerB":"x = 692000",
+		"AnswerC":"x = 6920",
+		"AnswerD":"x = 692",
+		"Result":"x = 692000"
+	},
+	{	
+		"Question":"Câu 19: Một quyển vở có 64 trang giấy. Hỏi 11 quyển vở cùng loại có bao nhiêu trang giấy?",
+		"AnswerA":"110 trang",
+		"AnswerB":"704 trang",
+		"AnswerC":"740 trang",
+		"AnswerD":"D. 604 trang",
+		"Result":"704 trang"
+	},
+	{	
+		"Question":"Câu 20: Kết quả của phép chia: 9800 : 200 = ?",
+		"AnswerA":"4900",
+		"AnswerB":"409",
+		"AnswerC":"49",
+		"AnswerD":"490",
+		"Result":"49"
+	}
+]

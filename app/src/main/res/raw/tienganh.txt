@@ -1,0 +1,164 @@
+[
+	{
+		"Question": "Câu 1: It's cold in......",
+		"AnswerA":"winter",
+		"AnswerB":"fall",
+		"AnswerC":"spring",
+		"AnswerD":"summer",
+		"Result":"winter"
+	},
+	{
+		"Question": "Câu 2: What do you do......spring?",
+		"AnswerA":"on",
+		"AnswerB":"at",
+		"AnswerC":"of",
+		"AnswerD":"in",
+		"Result":"in"
+	},
+	{
+		"Question":"Câu 3: How.........seasons are there in a year?",
+		"AnswerA":"many",
+		"AnswerB":"long",
+		"AnswerC":"often",
+		"AnswerD":"much",
+		"Result":"many"
+	},
+	{
+		"Question":"Câu 4: There are lots of plants............animals in this forest",
+		"AnswerA":"and",
+		"AnswerB":"so",
+		"AnswerC":"but",
+		"AnswerD":"or",
+		"Result":"and"
+	},
+	{	
+		"Question":"Câu 5: Mai goes...........when it's hot",
+		"AnswerA":"swim",
+		"AnswerB":"swimming",
+		"AnswerC":"swims",
+		"AnswerD":"to the swim",
+		"Result":"swimming"
+	},
+	{	
+		"Question":"Câu 6: Linh's house........a yard.",
+		"AnswerA":"have",
+		"AnswerB":"has",
+		"AnswerC":"having",
+		"AnswerD":"is have",
+		"Result":"has"		
+	},
+	{	
+		"Question":"Câu 7: My mom watches TV........evening.",
+		"AnswerA":"on",
+		"AnswerB":"in",
+		"AnswerC":"at",
+		"AnswerD":"for",
+		"Result":"in"
+	},
+	{	
+		"Question":"Câu 8: There are many kinds of flowers.............the park near my house.",
+		"AnswerA":"on",
+		"AnswerB":"in",
+		"AnswerC":"to",
+		"AnswerD":"of",
+		"Result":"in"
+	},
+	{	
+		"Question":"Câu 9: That building is...........a park and a lake.",
+		"AnswerA":"in",
+		"AnswerB":"between",
+		"AnswerC":"of",
+		"AnswerD":"on",
+		"Result":"between"
+	},
+	{	
+		"Question":"Câu 10: Is..........a rice  paddy near your house ?",
+		"AnswerA":"this",
+		"AnswerB":"these",
+		"AnswerC":"there",
+		"AnswerD":"those",
+		"Result":"there"
+	},
+	{	
+		"Question":"Câu 11: You should do morning exercise. It's good...................your health",
+		"AnswerA":"for",
+		"AnswerB":"on",
+		"AnswerC":"at",
+		"AnswerD":"out",
+		"Result":"for"
+	},
+	{	
+		"Question":"Câu 12: I..............go to the doctor now. I'm sick",
+		"AnswerA":"like",
+		"AnswerB":"love",
+		"AnswerC":"must",
+		"AnswerD":"want",
+		"Result":"must"
+	},
+	{	
+
+		"Question":"Câu 13: ............go out! It's raining now",
+		"AnswerA":"Don't",
+		"AnswerB":"Doesn't ",
+		"AnswerC":"Do",
+		"AnswerD":"Does",
+		"Result":"Don't"
+	},
+	{	
+		"Question":"Câu 14: Hoa always has breakfast before.........to school",
+		"AnswerA":"going",
+		"AnswerB":"went",
+		"AnswerC":"go",
+		"AnswerD":"goes",
+		"Result":"goes"
+	},	
+	{	
+		"Question":"Câu 15: Cuộc kháng chuến toàn quốc chống Pháp bắt đầu từ",
+		"AnswerA":"Năm 1945.",
+		"AnswerB":"Năm 1946.",
+		"AnswerC":"Trước chiến dịch Việt Bắc thu - đông 1947.",
+		"AnswerD":"Năm 1947.",
+		"Result":"Năm 1946."
+	},
+	{	
+		"Question":"Câu 16: There are...........pens on the table",
+		"AnswerA":"some",
+		"AnswerB":"an",
+		"AnswerC":"a",
+		"AnswerD":"the",
+		"Result":"some"
+	},
+	{
+
+		"Question":"Câu 17: That is a picture........my house",
+		"AnswerA":"of",
+		"AnswerB":"on",
+		"AnswerC":"at",
+		"AnswerD":"in",
+		"Result":"in"
+	},
+	{	
+		"Question":"Câu 18: Don't run too..........on the street, children!",
+		"AnswerA":"fast",
+		"AnswerB":"fastly",
+		"AnswerC":"slow",
+		"AnswerD":"slowly",
+		"Result":"fast"
+	},
+	{	
+		"Question":"Câu 19: She..........to Ha Noi by car",
+		"AnswerA":"travels",
+		"AnswerB":"travel",
+		"AnswerC":"go",
+		"AnswerD":"walk",
+		"Result":"travels"
+	},
+	{	
+		"Question":"Câu 20: Chi lives an ............in town",
+		"AnswerA":"house",
+		"AnswerB":"apartment",
+		"AnswerC":"home",
+		"AnswerD":"flat",
+		"Result":"partment"
+	}
+]

@@ -1,0 +1,165 @@
+[
+	{
+		"Question": "Câu 1: Chương trình bảng tính có tính năng đặc biệt là:",
+		"AnswerA":"Xử lý những văn bản lớn.",
+		"AnswerB":"Chứa nhiều thông tin.",
+		"AnswerC":"Chuyên thực hiện các tính toán.",
+		"AnswerD":"Chuyên lưu trữ hình ảnh.",
+		"Result":"Chuyên thực hiện các tính toán."
+	},
+	{
+		"Question": "Câu 2: Nhu cầu xử lí thông tin dạng bảng là:",
+		"AnswerA":"Dễ so sánh",
+		"AnswerB":"Dễ in ra giấy",
+		"AnswerC":"Dễ học hỏi",
+		"AnswerD":"Dễ di chuyển",
+		"Result":"Dễ so sánh"
+	},
+	{
+		"Question":"Câu 3: Chương trình bảng tính, ngoài chức năng tính toán còn có chức năng:",
+		"AnswerA":"Tạo biểu đồ.",
+		"AnswerB":"Tạo trò chơi.",
+		"AnswerC":"Tạo video",
+		"AnswerD":"Tạo nhạc.",
+		"Result":"Tạo biểu đồ."
+	},
+	{
+		"Question":"Câu 4: Các thành phần chính trên trang tính gồm có:",
+		"AnswerA":"Hộp tên, Khối, các ô tính.",
+		"AnswerB":"Hộp tên, Khối, các hàng.",
+		"AnswerC":"Hộp tên, thanh công thức, các cột.",
+		"AnswerD":"Hộp tên, Khối, Thanh công thức.",
+		"Result":"Hộp tên, Khối, Thanh công thức."
+	},
+	{	
+		"Question":"Câu 5: Để khởi động chương trình bảng tính excel, ta thực hiện:",
+		"AnswerA":"Nháy chuột lên biểu tượng Excel.",
+		"AnswerB":"Nháy chuột phải lên biểu tượng Excel.",
+		"AnswerC":"Nháy đúp chuột lên biểu tượng Excel.",
+		"AnswerD":"Nháy đúp chuột phải lên biểu tượng Excel.",
+		"Result":"Nháy đúp chuột lên biểu tượng Excel."
+	},
+	{	
+		"Question":"Câu 6: Trong màn hình Excel, ngoài bảng chọn File và các dải lệnh giống Word thì màn hình Excel còn có:",
+		"AnswerA":"Trang tính, thanh công thức.",
+		"AnswerB":"Thanh công thức, các dải lệnh Formulas.",
+		"AnswerC":"Các dải lệnh Formulas và bảng chọn Data.",
+		"AnswerD":"Trang tính, thanh công thức, các dải lệnh Formulas và bảng chọn Data.",
+		"Result":"Trang tính, thanh công thức, các dải lệnh Formulas và bảng chọn Data."		
+	},
+	{	
+		"Question":"Câu 7: Trên trang tính, muốn nhập dữ liệu vào ô tính, đầu tiên ta thực hiện thao tác:",
+		"AnswerA":"Nháy chuột chọn hàng cần nhập.",
+		"AnswerB":"Nháy chuột chọn cột cần nhập.",
+		"AnswerC":"Nháy chuột chọn khối ô cần nhập.",
+		"AnswerD":"Nháy chuột chọn ô cần nhập.",
+		"Result":"Nháy chuột chọn ô cần nhập."
+	},
+	{	
+		"Question":"Câu 8: Trên trang tính, sau khi gõ dữ liệu từ bàn phím xong, ta nhấn phím:",
+		"AnswerA":"Enter",
+		"AnswerB":"Shift",
+		"AnswerC":"Alt",
+		"AnswerD":"Capslock",
+		"Result":"Enter"
+	},
+	{	
+		"Question":"Câu 9: Trên trang tính, các ký tự chữ cái A,B,C,….được gọi là:",
+		"AnswerA":"Tên hàng.",
+		"AnswerB":"Tên ô.",
+		"AnswerC":"Tên cột.",
+		"AnswerD":"Tên khối",
+		"Result":"Tên cột."
+	},
+	{	
+		"Question":"Câu 10: Trong chương trình bảng tính, khi mở một bảng tính mới thường có:",
+		"AnswerA":"Hai trang tính trống.",
+		"AnswerB":"Một trang tính trống.",
+		"AnswerC":"Ba trang tính trống.",
+		"AnswerD":"Bốn trang tính trống.",
+		"Result":"Ba trang tính trống."
+	},
+	
+	{	
+		"Question":"Câu 11: Trên trang tính, hộp tên hiển thị D6 cho ta biết:",
+		"AnswerA":"Địa chỉ của ô tại cột 6 hàng D.",
+		"AnswerB":"Địa chỉ của ô tại cột D hàng 6.",
+		"AnswerC":"Địa chỉ của ô tại hàng D đến hàng 6.",
+		"AnswerD":"Địa chỉ của ô từ cột D đến cột 6.",
+		"Result":"Địa chỉ của ô tại cột D hàng 6."
+	},
+	{	
+		"Question":"Câu 12: Trong chương trình bảng tính, ký hiệu khối ô từ ô D2 đến ô F6, ta viết:",
+		"AnswerA":"D2:F6",
+		"AnswerB":"F6:D2",
+		"AnswerC":"D2..F6",
+		"AnswerD":"F6..D2",
+		"Result":"D2:F6"
+	},
+	{	
+
+		"Question":"Câu 13: Trong chương trình bảng tính, khối ô A3:C4 là gồm các ô:",
+		"AnswerA":"A3 và C4.",
+		"AnswerB":"A3,A4, C3 và C4.",
+		"AnswerC":"A3,A4,B3,B4,C3 và C4.",
+		"AnswerD":"A3 và A4, C3, C4.",
+		"Result":"A3,A4,B3,B4,C3 và C4."
+	},
+	{	
+		"Question":"Câu 14: Trên trang tính, một nhóm các ô liền kề nhau tạo thành hình chữ nhật gọi là:",
+		"AnswerA":"Ô liên kết.",
+		"AnswerB":"Các ô cùng hàng.",
+		"AnswerC":"Khối ô",
+		"AnswerD":"Các ô cùng cột.",
+		"Result":"Khối ô"
+	},	
+	{	
+		"Question":"Câu 15: Trong chương trình bảng tính, thanh công thức cho biết:",
+		"AnswerA":"Địa chỉ của ô được chọn.",
+		"AnswerB":"Khối ô được chọn.",
+		"AnswerC":"Hàng hoặc cột được chọn.",
+		"AnswerD":"Dữ liệu hoặc công thức của ô được chọn.",
+		"Result":"Dữ liệu hoặc công thức của ô được chọn."
+	},
+	{	
+		"Question":"Câu 16: Kết quả của phép tính: 78 x 100 : 10 = ?",
+		"AnswerA":"Kiểu thời trang.",
+		"AnswerB":"Kiểu ngày.",
+		"AnswerC":"Kiểu số.",
+		"AnswerD":"Kiểu số và kiểu kí tự.",
+		"Result":"Kiểu số và kiểu kí tự."
+	},
+	{
+
+		"Question":"Câu 17: Trong Excel, Các kí hiệu dùng để kí hiệu các phép toán",
+		"AnswerA":"+ - . :",
+		"AnswerB":"+ - * /",
+		"AnswerC":"^ / : x",
+		"AnswerD":"+ - ^ /",
+		"Result":"+ - * /"
+	},
+	{	
+		"Question":"Câu 18: Khi gõ công thức vào một ô, kí tự đầu tiên phải là:",
+		"AnswerA":"Ô đầu tiên tham chiếu tới",
+		"AnswerB":"Dấu ngoặc đơn",
+		"AnswerC":"Dấu bằng",
+		"AnswerD":"Dấu nháy",
+		"Result":"Dấu bằng"
+	},
+	{	
+		"Question":"Câu 19: Trong các công thức nhập vào ô tính để tính biểu thức (9+7)/2 thì công thức nào toán học sau đây là đúng?",
+		"AnswerA":"= (7 + 9)/2",
+		"AnswerB":"= (7 + 9):2",
+		"AnswerC":"= (7 +9 )/2",
+		"AnswerD":"= 9+7/2",
+		"Result":"= (7 + 9):2"
+	},
+	{	
+		"Question":"Câu 20: Để kết thúc việc nhập công thức ta sử dụng thao tác:",
+		"AnswerA":"Nhấn Enter",
+		"AnswerB":"Nháy chuột vào nút",
+		"AnswerC":"Cả A và B đều đúng",
+		"AnswerD":"Cả A và B đều sai",
+		"Result":"Nhấn Enter"
+	}
+]

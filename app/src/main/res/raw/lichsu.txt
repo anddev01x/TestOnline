@@ -1,0 +1,164 @@
+[
+	{
+		"Question": "Câu 1: Người được tôn là 'Bình Tây đại nguyên soái' là",
+		"AnswerA":"Trương Định",
+		"AnswerB":"Tôn Thất Thuyết",
+		"AnswerC":"Phan Đình Phùng",
+		"AnswerD":"Nguyễn Trường Tộ",
+		"Result":"Trương Định"
+	},
+	{
+		"Question": "Câu 2: Chủ trương canh tân đất nước để đủ sức tự lập, tự cường là:",
+		"AnswerA":"Phan Đình Phùng",
+		"AnswerB":"Trương Định",
+		"AnswerC":"Tôn Thất Thuyết",
+		"AnswerD":"Nguyễn Trường Tộ",
+		"Result":"Trương Định"
+	},
+	{
+		"Question":"Câu 3: Trung QuốC thuộc châu lục nào",
+		"AnswerA":"Phan Đình Phùng",
+		"AnswerB":"Trương Định",
+		"AnswerC":"Tôn Thất Thuyết",
+		"AnswerD":"Nguyễn Trường Tộ",
+		"Result":"Tôn Thất Thuyết"
+	},
+	{
+		"Question":"Câu 4: Sự kiện mở đầu phong trào cần vương là:",
+		"AnswerA":"Khởi nghĩa Ba Đình",
+		"AnswerB":"Cuộc phản công kinh thành Huế",
+		"AnswerC":"Khởi nghĩa Bãi Sậy",
+		"AnswerD":"Khởi nghĩa Hương Khê",
+		"Result":"Cuộc phản công kinh thành Huế"
+	},
+	{	
+		"Question":"Câu 5: Người từ cảng Nhà Rồng ra đi tìm đường cứu nước mới là",
+		"AnswerA":"Phan Bội Chân",
+		"AnswerB":"Nguyễn Tất Thành",
+		"AnswerC":"Phan Châu Trinh",
+		"AnswerD":"Nguyễn Trường Tộ",
+		"Result":"Nguyễn Tất Thành"
+	},
+	{	
+		"Question":"Câu 6:  Anh hùng nào đã đánh bộc phá ở Đông khê trong biên giới thu- đông 1950",
+		"AnswerA":"Cù Chính Lan",
+		"AnswerB":"La Văn Cầu",
+		"AnswerC":"Nguyễn Quốc Trị",
+		"AnswerD":"La Văn Cầu, Cù Chính Lan",
+		"Result":"La Văn Cầu"		
+	},
+	{	
+		"Question":"Câu 7: Những cụm từ nào trong lời kêu gọi toàn quốc kháng chiến thể hiện quyết tâm bảo vệ độc lập tự do của nhân dân ta?",
+		"AnswerA":"Thà hi sinh, hòa bình",
+		"AnswerB":"Nhất định, không chịu, hòa bình",
+		"AnswerC":"Chúng ta muốn hòa bình.",
+		"AnswerD":"Thà hi sinh, nhất định không chịu. ",
+		"Result":"Thà hi sinh, nhất định không chịu. "
+	},
+	{	
+		"Question":"Câu 8: Chiến dịch nào trong cuộc kháng chiến chống Pháp ghi lại trang vàng lịch sử chông ngoại xâm của dân tộc ta?",
+		"AnswerA":"Chiến dịch Việt Bắc",
+		"AnswerB":"Chiến dịch Điện Biên Phủ",
+		"AnswerC":"Chiến dịch Biên Giới",
+		"AnswerD":"Chiến dịch Việt Bắc, Biên Giới",
+		"Result":"Chiến dịch Điện Biên Phủ"
+	},
+	{	
+		"Question":"Câu 9: Bác Hồ trực tiếp ra mặt trận trong chiến dịch",
+		"AnswerA":"Biên giới",
+		"AnswerB":"Việt bắc và Biên giới",
+		"AnswerC":"Việt Bắc",
+		"AnswerD":"Điện Biên Phủ",
+		"Result":"Biên giới"
+	},
+	{	
+		"Question":"Câu 10: Cuộc kháng chiến toàn quốc phòng chống Pháp kết thúc vào",
+		"AnswerA":"Năm 1953.",
+		"AnswerB":"Năm 1950.",
+		"AnswerC":"Năm 1954.",
+		"AnswerD":"Năm 1955.",
+		"Result":"Năm 1954."
+	},
+	{	
+		"Question":"Câu 11: Những chiến dịch nào trong cuộc kháng chuến chống Pháp diễn tra trong thu-đông?",
+		"AnswerA":"Chiến dịch Điện Biên Phủ",
+		"AnswerB":"Chiến dịch Việt Bắc",
+		"AnswerC":"Chiến dịch Biên giới",
+		"AnswerD":"Chiến dịch Việt Bắc, Biên giới",
+		"Result":"Chiến dịch Việt Bắc, Biên giới"
+	},
+	{	
+		"Question":"Câu 12: Sự kiện tiêu biểu nhất trong chín năm kháng chiến chống Pháp của dân tộc ta là?",
+		"AnswerA":"Đại hội lần thứ II của Đảng",
+		"AnswerB":"Cuộc kháng chiến toàn quốc bùng nổ",
+		"AnswerC":"Chiến thắng Điện Biên Phủ",
+		"AnswerD":"Chiến thắng Biên giới",
+		"Result":"Chiến thắng Điện Biên Phủ"
+	},
+	{	
+
+		"Question":"Câu 13: Chiến dịch Điện Biên Phủ thắng lợi vào",
+		"AnswerA":"7/5/1955",
+		"AnswerB":"5/7/1954",
+		"AnswerC":"7/5/1954",
+		"AnswerD":"17/5/1954",
+		"Result":"7/5/1954"
+	},
+	{	
+		"Question":"Câu 14: Từ cuối năm 1945 Cách mạng nước ta phải đương đầu với",
+		"AnswerA":"Giặc đói.",
+		"AnswerB":"Giặc dốt.",
+		"AnswerC":"Giặc ngoại xâm.",
+		"AnswerD":"Giặc đói, giặc dốt, giặc ngoại xâm.",
+		"Result":"Giặc đói, giặc dốt, giặc ngoại xâm."
+	},	
+	{	
+		"Question":"Câu 15: Cuộc kháng chuến toàn quốc chống Pháp bắt đầu từ",
+		"AnswerA":"Năm 1945.",
+		"AnswerB":"Năm 1946.",
+		"AnswerC":"Trước chiến dịch Việt Bắc thu - đông 1947.",
+		"AnswerD":"Năm 1947.",
+		"Result":"Năm 1946."
+	},
+	{	
+		"Question":"Câu 16: Cụm từ 'nghìn cân treo sợi tóc' là diễn tả tình thế hiểm nghèo của nước ra",
+		"AnswerA":"Sau Cách mạng tháng Tám",
+		"AnswerB":"Cuối tháng 12/1946",
+		"AnswerC":"Trước cách mạng tháng Tám",
+		"AnswerD":"Khi Pháp gửi tối hậu thư",
+		"Result":"Sau Cách mạng tháng Tám"
+	},
+	{
+
+		"Question":"Câu 17: Xe tăng của ta tiến vào Dinh Độc lập vào",
+		"AnswerA":"Ngày 27-1-1975",
+		"AnswerB":"Ngày 26-4-1975",
+		"AnswerC":"Ngày 30-4-1975",
+		"AnswerD":"Ngày 25-4-1976",
+		"Result":"Ngày 30-4-1975"
+	},
+	{	
+		"Question":"Câu 18: Chiến dịch Hồ Chí Minh kết thúc vào",
+		"AnswerA":"Ngày 7-5-1954",
+		"AnswerB":"Ngày 17-1-1960",
+		"AnswerC":"Ngày 27-1-1973",
+		"AnswerD":"Ngày 30-4-1975",
+		"Result":"Ngày 30-4-1975"
+	},
+	{	
+		"Question":"Câu 19: Ngày 25-4-1976 diễn ra sự kiện gì",
+		"AnswerA":"Quốc hội khóa VI họp",
+		"AnswerB":"Tổng tuyển cử bầy quốc hội chung",
+		"AnswerC":"Khởi công xây dựng Nhà Máy thủy điện Thác Bà",
+		"AnswerD":"Xe tăng của ta tiến vào dinh độc lập",
+		"Result":"Tổng tuyển cử bầy quốc hội chung"
+	},
+	{	
+		"Question":"Câu 20: Nhân dân ta giành được thắng lợi trong cuộc bảo vệ Tổ quốc và xây dựng đất nước là do nhân dân ta",
+		"AnswerA":"Yêu nước",
+		"AnswerB":"Dũng cảm chiến đấu",
+		"AnswerC":"Cần cù lao động",
+		"AnswerD":"Sẵn sàng hi sinh",
+		"Result":"Yêu nước"
+	}
+]

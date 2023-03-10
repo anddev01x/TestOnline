@@ -1,0 +1,164 @@
+[
+	{
+		"Question": "Câu 1: Phía đông châu Mĩ là:",
+		"AnswerA":"Thái Bình Dương",
+		"AnswerB":"Đại tây Dương",
+		"AnswerC":"Bắc Băng Dương",
+		"AnswerD":"Ấn Độ Dương",
+		"Result":"Ấn Độ Dương"
+	},
+	{
+		"Question": "Câu 2: Hoa Kì có diện tích đứng thứ mấy thế giới",
+		"AnswerA":"3",
+		"AnswerB":"5",
+		"AnswerC":"4",
+		"AnswerD":"2",
+		"Result":"4"
+	},
+	{
+		"Question":"Câu 3: Trung QuốC thuộc châu lục nào",
+		"AnswerA":"Châu Á",
+		"AnswerB":"Châu Âu",
+		"AnswerC":"Châu Mĩ",
+		"AnswerD":"Châu Phi",
+		"Result":"Châu Á"
+	},
+	{
+		"Question":"Câu 4: Động vật tiêu biểu của châu Nam Cực là",
+		"AnswerA":"Chim cánh cụt",
+		"AnswerB":"Lạc đà",
+		"AnswerC":"Gấu cô-a-la",
+		"AnswerD":"Căng-gu-ru",
+		"Result":"Chim cánh cụt"
+	},
+	{	
+		"Question":"Câu 5: Hoa Kì thuộc châu lục nào",
+		"AnswerA":"Châu Âu",
+		"AnswerB":"Châu Mĩ",
+		"AnswerC":"Châu Á",
+		"AnswerD":"Châu Phi",
+		"Result":"Châu Mĩ"
+	},
+	{	
+		"Question":"Câu 6: Cư dân châu Mĩ là người",
+		"AnswerA":"Da trắng",
+		"AnswerB":"Da vàng",
+		"AnswerC":"Da đen",
+		"AnswerD":"Tất cả đáp án trên đều đúng",
+		"Result":"Tất cả đáp án trên đều đúng"		
+	},
+	{	
+		"Question":"Câu 7: Lào- Cam-pu-chia thuộc châu lục nào?",
+		"AnswerA":"Châu Phi",
+		"AnswerB":"Châu Âu",
+		"AnswerC":"Châu Á",
+		"AnswerD":"Châu Mĩ",
+		"Result":"Châu Á"
+	},
+	{	
+		"Question":"Câu 8: Ai Cập thuộc châu lục nào",
+		"AnswerA":"Châu Mĩ",
+		"AnswerB":"Châu Á",
+		"AnswerC":"Châu Âu",
+		"AnswerD":"Châu Phi",
+		"Result":"Châu Phi."
+	},
+	{	
+		"Question":"Câu 9: Châu Phi đang phát triển đối mặt với những khó khăn nào?",
+		"AnswerA":"Thiếu ăn, thiếu mặc",
+		"AnswerB":"Thiếu mặc, dịch bệnh",
+		"AnswerC":"ịch bệnh, thiếu ăn",
+		"AnswerD":"Thiếu ăn, thiếu mặc, dịch bệnh",
+		"Result":"Thiếu ăn, thiếu mặc, dịch bệnh"
+	},
+	{	
+		"Question":"Câu 10: Liên Bang Nga thuộc châu lục nào",
+		"AnswerA":"Châu Âu",
+		"AnswerB":"Cả châu Âu và châu Á",
+		"AnswerC":"Châu Á",
+		"AnswerD":"Châu Mĩ",
+		"Result":"Cả châu Âu và châu Á"
+	},
+	{	
+		"Question":"Câu 11: Pháp thuộc châu lục nào?",
+		"AnswerA":"Châu Đại Dương",
+		"AnswerB":"Châu Phi",
+		"AnswerC":"Châu Âu",
+		"AnswerD":"Châu Á",
+		"Result":"Châu Âu"
+	},
+	{	
+		"Question":"Câu 12: Châu Mĩ nằm ở",
+		"AnswerA":"Bán cầu tây",
+		"AnswerB":"Bán cầu nam",
+		"AnswerC":"Bán cầu bắc",
+		"AnswerD":"Bán cầu đông",
+		"Result":"Bán cầu tây"
+	},
+	{	
+
+		"Question":"Câu 13: Phía tây châu Âu là",
+		"AnswerA":"Biển Đen",
+		"AnswerB":"Đại Trung Hải",
+		"AnswerC":"Bắc Băng Dương",
+		"AnswerD":"Đại tây Dương",
+		"Result":"Đại tây Dương"
+	},
+	{	
+		"Question":"Câu 14: Lục địa châu Âu tiếp giáp với",
+		"AnswerA":"Châu Á",
+		"AnswerB":"Châu Phi",
+		"AnswerC":"Châu Mĩ",
+		"AnswerD":"Châu Đại Dương",
+		"Result":"Châu Á"
+	},	
+	{	
+		"Question":"Câu 15: Dân cư châu Âu chủ yếu là người",
+		"AnswerA":"Da trắng",
+		"AnswerB":"Da trắng, da vàng",
+		"AnswerC":"Da vàng",
+		"AnswerD":"Da đen",
+		"Result":"Da trắng"
+	},
+	{	
+		"Question":"Câu 16: Phía đông châu Á là",
+		"AnswerA":"Đại tây Dương",
+		"AnswerB":"Ấn Độ Dương",
+		"AnswerC":"Thái Bình Dương",
+		"AnswerD":"Bắc Băng Dương",
+		"Result":"Thái Bình Dương"
+	},
+	{
+
+		"Question":"Câu 17:  Đồng bằng Lưỡng Hà ở",
+		"AnswerA":"Tây Nam Á",
+		"AnswerB":"Nam Á",
+		"AnswerC":"Đông Á",
+		"AnswerD":"Trung Á",
+		"Result":"Tây Nam Á"
+	},
+	{	
+		"Question":"Câu 18: Châu Á có bán hoang mạc",
+		"AnswerA":"Ca-dắc-xtan",
+		"AnswerB":"Nhật Bản",
+		"AnswerC":"In-do-ne-xi-a",
+		"AnswerD":"Nê-pan",
+		"Result":"Ca-dắc-xtan"
+	},
+	{	
+		"Question":"Câu 19: Châu Âu nằm ở phía nào của châu Á?",
+		"AnswerA":"Phía Đông",
+		"AnswerB":"Phía Tây",
+		"AnswerC":"Phía Bắc",
+		"AnswerD":"Phía Nam",
+		"Result":"Phía Tây"
+	},
+	{	
+		"Question":"Câu 20: Châu Á nằm ở",
+		"AnswerA":"Bán cầu Bắc",
+		"AnswerB":"Bán cầu Nam",
+		"AnswerC":"Phía Tây châu Âu",
+		"AnswerD":"Phía Nam châu Âu",
+		"Result":"Bán cầu Bắc"
+	}
+]
